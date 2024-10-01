@@ -1,3 +1,19 @@
 body {
     background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
 }
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
