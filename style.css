@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+    background-image: linear-gradient(to top, #9795f0 90%, #fbc8d4 100%);
 }
 
 header {
@@ -18,7 +18,7 @@ header {
     gap: 28px;
 }
 
-.nav-item :hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: black;
     color: white;
