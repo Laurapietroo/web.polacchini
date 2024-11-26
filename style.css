@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-image: linear-gradient(to top, #9795f0 90%, #fbc8d4 100%);
 }
@@ -38,5 +44,5 @@ section{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
+
 }
